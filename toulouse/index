@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Recette</title>
+</head>
+
+     <body>
+	     <h1>Hello</h1>
+	     <a href="recette infographie/recette.html">La recette pour une bonne infographie</a>
+	     <img src="toulouse.png" alt="Infographie de toulouse" />
+	
+	
+	</body>
+</html>
